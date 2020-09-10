@@ -1,0 +1,7 @@
+E:\LTI GET 855\DevopsDay3\SampleSolution\SampleProject\bin\Debug\SampleProject.exe.config
+E:\LTI GET 855\DevopsDay3\SampleSolution\SampleProject\bin\Debug\SampleProject.exe
+E:\LTI GET 855\DevopsDay3\SampleSolution\SampleProject\bin\Debug\SampleProject.pdb
+E:\LTI GET 855\DevopsDay3\SampleSolution\SampleProject\obj\Debug\SampleProject.csprojAssemblyReference.cache
+E:\LTI GET 855\DevopsDay3\SampleSolution\SampleProject\obj\Debug\SampleProject.csproj.CoreCompileInputs.cache
+E:\LTI GET 855\DevopsDay3\SampleSolution\SampleProject\obj\Debug\SampleProject.exe
+E:\LTI GET 855\DevopsDay3\SampleSolution\SampleProject\obj\Debug\SampleProject.pdb
